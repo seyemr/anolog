@@ -1,6 +1,3 @@
-# anolog
-
-<img src="gıf/gıf.mp4"/>
 
 # analog
 Anolog is a simple web application that provides an interface with an analog clock face.
